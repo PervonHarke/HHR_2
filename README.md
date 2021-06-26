@@ -1,2 +1,2 @@
 # HHR_2
-remade it from the start
+an attempt on making a reskin mod
